@@ -51,7 +51,7 @@ L’application peut accéder aux éléments suivants :
 ---
 
 ### 4. Contact
-📧 didier.develop.sms.locator@gmail.com
+📧 support.smsphonelocator@sfr.fr
 
 ---
 
@@ -104,4 +104,4 @@ It **does not collect, store, share, or transmit any personal data** to any serv
 ---
 
 ### 4. Contact
-📧 didier.develop.sms.locator@gmail.com
+📧 support.smsphonelocator@sfr.fr
